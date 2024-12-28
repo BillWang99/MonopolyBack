@@ -15,7 +15,7 @@
 
   ##API說明
 
-  **GameHistory 相關**
+  **GameHistory**   
   /api/GameHistory (Get)回傳所有賽局得紀錄   
   /api/GameHistory (POST)建立新的賽局   
   /api/GameHistory/{id} (Get)回傳特定id的賽局資料   
